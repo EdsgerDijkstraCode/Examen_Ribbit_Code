@@ -25,4 +25,5 @@ dotnet ef database update
  Ejemplos de peticiones API:
 
  http://localhost:5153/api/Productos?PrecioInferior=0&PrecioSuperior=0
+ 
  http://localhost:5153/api/Productos/1
