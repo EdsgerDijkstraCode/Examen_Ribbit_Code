@@ -20,6 +20,7 @@ Comandos para ejecutar las migraciones:
 Aplicar los siguientes comandos en caso de modificar el modelo de datos:
 
 dotnet ef migrations add InitialCreate
+
 dotnet ef database update
 
  Ejemplos de peticiones API:
